@@ -143,7 +143,7 @@ def recommdend_knn(input_name, df, df_k, n=11):
 
 recommdend_knn("PLAYERUNKNOWN'S BATTLEGROUNDS", df, df_k)
 
-#collaborative filtering(item based)
+#collaborative filtering(item based) (termproject_withKNN.py)
 
 import pandas as pd
 import numpy as np
